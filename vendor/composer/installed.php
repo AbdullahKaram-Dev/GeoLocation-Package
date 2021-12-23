@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'fc5f7a806f518c60f1475a86ac5a1780278d62b2',
+        'reference' => 'cbcc7788be63d06d55d9bbdc0fb143acf9172a66',
         'name' => 'abdullah-karam/usergeolocationapi',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'fc5f7a806f518c60f1475a86ac5a1780278d62b2',
+            'reference' => 'cbcc7788be63d06d55d9bbdc0fb143acf9172a66',
             'dev_requirement' => false,
         ),
         'guzzlehttp/guzzle' => array(
