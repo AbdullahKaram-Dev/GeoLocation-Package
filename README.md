@@ -1,6 +1,6 @@
-# GeoLocation in PHP (API) 😊
+# GeoLocation in PHP (API) 😍😍😍
 
-## This package helps you to know a lot of information about the current user by his ip address 😍
+## This package helps you to know a lot of information about the current user by his ip address 😍😍😍
 
 
 This package helps you to know the current language of the user, the country from which he is browsing, the currency of his country, and also whether he is using it vpn
