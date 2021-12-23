@@ -1,0 +1,31 @@
+{
+    "name": "abdullah-karam/usergeolocationapi",
+    "description": "this package It gives you a lot of information about the current user of the system",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "7.4.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Abdullah\\UserGeoLocation\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel" : {
+            "providers" : [
+                "Abdullah\\UserGeoLocation\\GeoLocationServiceProvider"
+            ],
+            "aliases" : {
+                "GeoLocation": "Abdullah\\UserGeoLocation\\GeoLocationServiceProvider"
+            }
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AbdullahKaram-Dev",
+            "email": "abdallakaramdev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
