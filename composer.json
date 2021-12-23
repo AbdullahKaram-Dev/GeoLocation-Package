@@ -3,7 +3,7 @@
     "description": "this package It gives you a lot of information about the current user of the system",
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "7.4.x-dev"
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "autoload": {
         "psr-4": {

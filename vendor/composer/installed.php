@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'fc5f7a806f518c60f1475a86ac5a1780278d62b2',
         'name' => 'abdullah-karam/usergeolocationapi',
         'dev' => true,
     ),
     'versions' => array(
         'abdullah-karam/usergeolocationapi' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'fc5f7a806f518c60f1475a86ac5a1780278d62b2',
             'dev_requirement' => false,
         ),
         'guzzlehttp/guzzle' => array(
