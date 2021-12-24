@@ -1,7 +1,9 @@
 ![](https://img.shields.io/github/issues/AbdullahKaram-Dev/GeoLocation-Package)
+![](https://img.shields.io/github/stars/AbdullahKaram-Dev/GeoLocation-Package)
 ![](https://img.shields.io/github/forks/AbdullahKaram-Dev/GeoLocation-Package)
 ![](https://img.shields.io/github/license/AbdullahKaram-Dev/GeoLocation-Package)
 ![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FAbdullahKaram-Dev%2FGeoLocation-Package)
+
 
 # GeoLocation in PHP (API) 😍😍😍
 
